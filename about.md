@@ -1,19 +1,18 @@
-  
-## About covid-at-home.info
+## A propos de covid-at-home.info
 
-This site started as a private initiative of Rop Gonggrijp and Vera Wilde who did much of the initial research and writing. Very soon, some of their friends started helping by proofreading, translating and providing helpful correction and additions. Let's crowdsource this guide. A German translation is almost done and other translations are being planned as we write this.
+Ce site est né d'une initiative privée de Rop Gonggrijp et Vera Wilde qui ont fait une grande partie des recherches et de la rédaction initiales. Très vite, certains de leurs amis ont commencé à les aider en les corrigeant, en les traduisant et en leur fournissant des corrections et des ajouts utiles. Faisons le tour de ce guide. Une traduction allemande est presque terminée et d'autres traductions sont prévues au moment où nous écrivons ces lignes.
 
-The goal of covid-at-home is to share (in still somehat concise form) what we have learned and provide no-nonsense practical information in dealing with the COVID-19 pandemic on an open and non-commercial basis. The main assumption is that at least in some places COVID-19 will at least temporarily swamp the healthcare system, so the more people feel some confidence in dealing with sick people at home, the fewer people will show up at doctor's offices and hospitals unnecessarily. At the same time, people still need to know when patients need medical attention. 
+L'objectif de covid-at-home est de partager (sous une forme encore assez concise) ce que nous avons appris et de fournir des informations pratiques et claires sur la manière de faire face à la pandémie COVID-19 sur une base ouverte et non commerciale. L'hypothèse principale est qu'au moins dans certains endroits, COVID-19 inondera au moins temporairement le système de santé, de sorte que plus les gens se sentiront en confiance pour s'occuper des malades à la maison, moins ils se présenteront inutilement dans les cabinets médicaux et les hôpitaux. Dans le même temps, les gens doivent toujours savoir quand les patients ont besoin de soins médicaux. 
 
-Want to help? Yay! We have a [whole section](/help) dedicated to that.
+Vous voulez aider ? Yay ! Nous avons une [section entière](/aide) consacrée à cela.
 
-### License
+### Licence
 
-This site is published under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/) and no money is being made here in any way. There are no sponsors, and there is no opportunity to donate anything here except your time and energy.
+Ce site est publié sous [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License] (http://creativecommons.org/licenses/by-nc-sa/4.0/) et ne génère aucun revenu. Il n'y a pas de sponsors, et il n'y a aucune possibilité de donner quoi que ce soit ici, sauf votre temps et votre énergie.
 
-### Thank you
+### Merci
 
-This site is better because we got help from (in alphabetical order):
+Ce site est meilleur parce que nous avons reçu de l'aide de (par ordre alphabétique) :
 
 {% for person in site.data.thankyou.people %}
 * {{ person.name }}
@@ -21,11 +20,11 @@ This site is better because we got help from (in alphabetical order):
 
 ### Impressum
 
-(German law requires websites to list a publisher.)
+(La loi allemande exige que les sites web mentionnent un éditeur).
 
 Rop Gonggrijp & Vera Wilde<br>
-Linienstraße 127<br>
+Linienstrasse 127<br>
 10115 Berlin<br>
-Germany
+Allemagne
 
-e-mail: [team@covid-at-home.info](mailto:team@covid-at-home.info)
+e-mail : [team@covid-at-home.info](mailto:team@covid-at-home.info)

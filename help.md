@@ -1,27 +1,27 @@
-### We really NEED HELP
+### Nous avons vraiment besoin d'aide
 
-If this seems like a slick and streamlined operation to you, you're wrong. We're a small group of volunteers, mostly without medical training, winging it because we feel this information is not in one place and needs to be really soon. As we write this we haven't done much else for a week now, and we could really use help in the following areas:
+Si cela vous semble être une opération habile et rationnelle, vous avez tort. Nous sommes un petit groupe de volontaires, pour la plupart sans formation médicale, qui s'envole parce que nous pensons que ces informations ne sont pas à un seul endroit et doivent l'être très bientôt. Au moment où nous écrivons ces lignes, nous n'avons pas fait grand chose d'autre depuis une semaine et nous aurions vraiment besoin d'aide dans les domaines suivants :
 
-#### Get the word out !
+#### Faites passer le mot !
 
-This is now one of the most important things you can do to help. Tweet about this website and mention it on Facebook, Instagram and wherever else you can think. If you are a journalist, could you maybe mention this website in print or broadcast media? If you are a YouTube influencer, could you maybe talk about this site? If you have any online marketing experience, could you maybe help us be found?
+C'est maintenant l'une des choses les plus importantes que vous pouvez faire pour aider. Tweetez à propos de ce site web et mentionnez-le sur Facebook, Instagram et partout où vous pouvez penser. Si vous êtes journaliste, pourriez-vous mentionner ce site dans la presse écrite ou audiovisuelle ? Si vous êtes un influenceur de YouTube, pourriez-vous parler de ce site ? Si vous avez une expérience du marketing en ligne, pourriez-vous nous aider à être trouvés ?
 
-#### Translate
+#### Traduire
 
-We can set up a site with a domain in your language in no time, and link it from the main english website. All you need to do is translate text in the editing interface of Github, which we can talk you through. We think the entire website as it is now (March 15, 2020) can be translated in two to three person-days. You don't need to be a professional translator (but yay if you are). If your language is Spanish, German, French, Portugese, Italian, Dutch, Polish or Russian, we can set up your site preloaded with computer-transleted text that "only" needs to be fixed. (We use [DeepL translator](https://www.deepl.com/translator) for this, which is quite a bit better than Google Translate; the texts will still need quite a bit of manual work, but it does save time versus doing it all by hand. If your language has formal and informal addressing (Sie/du, U/jij, ...), we try to use the informal one, also to signify that this is a collaborative effort and that we are all in this together. 
+Nous pouvons mettre en place un site avec un domaine dans votre langue en un rien de temps, et le relier au site principal en anglais. Il vous suffit de traduire le texte dans l'interface d'édition de Github, dont nous pouvons vous parler. Nous pensons que l'ensemble du site web tel qu'il est actuellement (15 mars 2020) peut être traduit en deux ou trois jours-personnes. Vous n'avez pas besoin d'être un traducteur professionnel (mais oui si vous l'êtes). Si votre langue est l'espagnol, l'allemand, le français, le portugais, l'italien, le néerlandais, le polonais ou le russe, nous pouvons mettre en place votre site préchargé avec un texte traduit par ordinateur qui doit "seulement" être corrigé. (Nous utilisons [DeepL translator](https://www.deepl.com/translator) pour cela, ce qui est un peu mieux que Google Translate ; les textes nécessiteront encore pas mal de travail manuel, mais cela permet de gagner du temps par rapport au travail manuel. Si votre langue a un adressage formel et informel (Sie/du, U/jij, ...), nous essayons d'utiliser l'informel, également pour signifier qu'il s'agit d'un effort de collaboration et que nous sommes tous dans le même bateau. 
 
-Wanna help? Yeah! Prevent double work: don't start without talking to us. Please contact us right now by mailing [team@covid-at-home.info](mailto:team@covid-at-home.info) or by directly joining the [team video-conference](https://meet.jit.si/OngoingTeamMeetingForCovidAtHome). (We try to be there when we work on the site. If we're not there, please be polite to whoever else joins.)
+Vous voulez aider ? Ouais ! Évitez le double emploi : ne commencez pas sans nous parler. Veuillez nous contacter dès maintenant en nous envoyant un courriel à [team@covid-at-home.info](mailto:team@covid-at-home.info) ou en vous joignant directement à la [vidéoconférence de l'équipe](https://meet.jit.si/OngoingTeamMeetingForCovidAtHome). (Nous essayons d'être présents lorsque nous travaillons sur le site. Si nous ne sommes pas là, veuillez être poli envers ceux qui nous rejoignent).
 
-(If you can provide a number of useful local links in your region with the translation, even better.)
+(Si vous pouvez fournir un certain nombre de liens locaux utiles dans votre région avec la traduction, c'est encore mieux).
 
-#### Content help
+#### Aide au contenu
 
-Blessed be if you are a doctor, a nurse, or a public health official. We hope to make your job easier in the months to come. Please read through the site and tell us if you have any remarks. But this goes for anyone else that has things to add as well. Please either [file an issue](https://github.com/covid-at-home/covid-at-home.github.io/issues/new), [mail us](mailto:team@covid-at-home.info) or join the [team video-conference](https://meet.jit.si/OngoingTeamMeetingForCovidAtHome) if you want to talk to us.
+Soyez béni si vous êtes un médecin, un infirmier ou un agent de santé publique. Nous espérons vous faciliter la tâche dans les mois à venir. Veuillez lire le site et nous faire part de vos remarques éventuelles. Mais cela vaut aussi pour tous ceux qui ont des choses à ajouter. Si vous souhaitez nous parler, veuillez soit [déposer un dossier] (https://github.com/covid-at-home/covid-at-home.github.io/issues/new), [nous envoyer un courrier électronique] (mailto:team@covid-at-home.info) ou vous joindre à la [vidéoconférence de l'équipe] (https://meet.jit.si/OngoingTeamMeetingForCovidAtHome).
 
-#### Proofread
+#### Relecture
 
-We guarantee there will be plenty of typos, failed sentences and worse. Please briefly [file an issue](https://github.com/covid-at-home/covid-at-home.github.io/issues/new) and we'll fix it.
+Nous garantissons qu'il y aura beaucoup de fautes de frappe, de phrases ratées et pire encore. Merci de bien vouloir [déposer un problème] (https://github.com/covid-at-home/covid-at-home.github.io/issues/new) et nous le résoudrons.
 
-#### Alternative medicine
+#### Médecine alternative
 
-If you would like to help us with hints and tips for medicine that is not proven according to peer-reviewed publications and/or not proven to be very very safe, then thank you but no thank you. Please don't take offense but covid-at-home stands proudly with science on this one. 
+Si vous souhaitez nous aider en nous donnant des conseils et des astuces pour des médicaments qui ne sont pas prouvés selon des publications évaluées par des pairs et/ou dont l'innocuité n'est pas prouvée, alors merci mais non merci. Ne vous offensez pas, mais covid-at-home est fier de la science sur ce point. 

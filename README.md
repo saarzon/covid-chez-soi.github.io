@@ -1,8 +1,8 @@
-### The website that this github repository is the editing back-end to is live at
+### Le site web dont ce dépôt github est la base de données d'éditionfin à est en direct à
 
-# [covid-at-home.info](https://www.covid-at-home.info)
+# [covid-chez-soi.info](https://covid-chez-soi.info)
 
 
-### Team meeting
+### Réunion d'équipe
 
-An ongoing audio / video team meeting for writing/translation efforts wrt to this website is [here](https://meet.jit.si/OngoingTeamMeetingForCovidAtHome) or by [dialing in](+15124022718) to +1 512 402 2718 - PIN: 3558 5897 26# . Just visit and see if anyone is there.
+Une réunion de l'équipe audio/vidéo pour les efforts de rédaction/traduction est en cours sur ce site web [ici](https://meet.jit.si/OngoingTeamMeetingForCovidAtHome) ou en [composant le](+15124022718) au +1 512 402 2718 - PIN : 3558 5897 26# . Il suffit de visiter et de voir s'il y a quelqu'un.
